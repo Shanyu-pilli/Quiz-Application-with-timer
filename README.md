@@ -1,6 +1,6 @@
 # 🧠 Quiz Application
 
-A responsive web-based quiz application built with **HTML**, **CSS**, and **JavaScript**. This app presents multiple-choice questions and shows the user's score at the end.
+A responsive web-based quiz application built with **HTML**, **CSS**, and **JavaScript**. This app presents multiple-choice questions with timer and shows the user's score at the end.
 
 ---
 
